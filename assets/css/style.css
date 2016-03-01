@@ -1,0 +1,48 @@
+#mainStarWarsImage{
+	width: 100%;
+}
+body{
+	background-image: url("images/subtlebackground.png");
+}
+#frontSplash{
+	background-image: url("images/subtlebackground.png");
+	text-align: center;
+}
+.selectScreenSprites{
+	width: 70px;
+	padding: 10px;
+	margin-right: 20px;
+}
+.selectScreenLabels{
+	color: white;
+	font-size: 12pt;
+	font-weight: bold;
+	font-family: fantasy;	
+}
+.charHP{
+	color: white;
+	font-size: 16pt;
+	font-weight: bold;
+	font-family: fantasy;
+	padding: 15px;
+}
+.attackButtons{
+	margin-left: 30px;
+}
+.compCharacters{
+	padding: 10px;
+	transform: scale(-1, 1);
+
+}
+.userCharacter{
+	padding: 5px;
+}
+.title{
+	color: white;
+	font-size: 16pt;
+	font-weight: bold;
+	font-family: fantasy;
+}
+#titleHeader{
+	padding: 30px;
+}
